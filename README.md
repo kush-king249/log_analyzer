@@ -108,6 +108,6 @@ This project is licensed under the MIT License.
 Author:
 -------
 Hassan Mohamed Hassan Ahmed
-MIT License
 
 Copyright (c) 2025 Hassan Mohamed Hassan Ahmed
+
